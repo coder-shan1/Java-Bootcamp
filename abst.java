@@ -14,7 +14,7 @@ abstract class lambo extends car{
 }
 class newlambo extends lambo{
     public void stop(){
-        System.out.println("lambo is stopping");
+        System.out.println("lamborgini is stopping");
     }
 }
 
